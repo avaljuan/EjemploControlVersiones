@@ -7,7 +7,7 @@ Longcir <- function(R){
 }
 
 PerimetroRectangulo <- function(B,H){
-  return(2*H+2*B)
+  return(2*B+2*H)
 }
 
 pi=3.14159
